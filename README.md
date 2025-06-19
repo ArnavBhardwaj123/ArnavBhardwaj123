@@ -49,6 +49,18 @@
 
 ---
 
+### 🏆 GitHub Achievements
+
+<p>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="80" alt="Arctic Code Vault Contributor"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO Badge"/>
+</p>
+
+- 🦈 **Arctic Code Vault Contributor** — Your code is now preserved in the GitHub Arctic Vault!
+- 🌈 **YOLO** — For taking bold actions like force-pushes to main 😂
+
+  ---
+
 ### 📬 Connect with Me
 
 <p align="center">
