@@ -16,7 +16,7 @@
 ### 📌 Highlight: Internship @ Bansal Kraft
 - 🏢 **Company:** Bansal Kraft  
 - 🗓️ **Duration:** May 2025 – June 2025  
-- 🌐 **Project:** Developed their official website – [www.bansalkraft.com]( http://91.108.104.60:8000/)    
+- 🌐 **Project:** Developed their official website – [www.bansalkrafts.com] (https://bansalkrafts.com/)    
 - 🧩 **Role:** Full-Stack Developer (Major in Backend Django + Frontend Styling)
 - Many more coming up....
 ---
