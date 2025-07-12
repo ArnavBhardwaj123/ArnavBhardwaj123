@@ -51,8 +51,8 @@
 
 ### 🏆 GitHub Achievements
 
-<p>
-   <img src="ff272ccb-ca05-4890-ae57-3cd71ad68a5e.png" width="80" alt="Pull Shark Badge" />
+<p> 
+  ![Pull Shark Badge](https://raw.githubusercontent.com/<username>/<repo-name>/main/<folder>/aebc5c37-6396-4b12-a3cd-bd541d83bad1.png)
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO Badge"/>
 </p>
 
