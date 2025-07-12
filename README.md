@@ -52,7 +52,7 @@
 ### 🏆 GitHub Achievements
 
 <p>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="80" alt="Arctic Code Vault Contributor"/>
+   <img src="ff272ccb-ca05-4890-ae57-3cd71ad68a5e.png" width="80" alt="Pull Shark Badge" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO Badge"/>
 </p>
 
