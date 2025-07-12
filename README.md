@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm  Arnav Bhardwaj</h1>
+<h1 align="center">Hi 👋, I'm Arnav Bhardwaj</h1>
 <h3 align="center">💻 Web Developer | 🐍 Pythonista | 🔙 Django Backend | 🌐 Frontend Crafter | ☕ Java DSA Explorer</h3>
 
 ---
@@ -16,9 +16,10 @@
 ### 📌 Highlight: Internship @ Bansal Kraft
 - 🏢 **Company:** Bansal Kraft  
 - 🗓️ **Duration:** May 2025 – June 2025  
-- 🌐 **Project:** Developed their official website –  (https://bansalkrafts.com/)    
-- 🧩 **Role:** Full-Stack Developer (Major in Backend Django + Frontend Styling)
+- 🌐 **Project:** Developed their official website – [bansalkrafts.com](https://bansalkrafts.com)    
+- 🧩 **Role:** Full-Stack Developer (Major in Backend Django + Frontend Styling)  
 - Many more coming up....
+
 ---
 
 ### 🌟 Projects
@@ -29,6 +30,7 @@
 - 👥 Team of 4 Collaborators
 - 🚀 Goal: Make investing education free and fun!
 - Many more coming up....
+
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -51,22 +53,29 @@
 
 ### 🏆 GitHub Achievements
 
-<p> 
-  ![Pull Shark Badge](https://raw.githubusercontent.com/<username>/<repo-name>/main/<folder>/aebc5c37-6396-4b12-a3cd-bd541d83bad1.png)
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark Badge"/>
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO Badge"/>
 </p>
 
-- 🦈 **Arctic Code Vault Contributor** — Your code is now preserved in the GitHub Arctic Vault!
+- 🦈 **Pull Shark** — Opened pull requests that have been merged
+- 🧊 **Arctic Code Vault Contributor** — Your code is now preserved in the GitHub Arctic Vault!
 - 🌈 **YOLO** — For taking bold actions like force-pushes to main 😂
 
-  ---
+---
 
 ### 📬 Connect with Me
 
 <p align="center">
-  <a href="mailto: arnavbhardwaj439@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href=" https://www.linkedin.com/in/arnav-bhardwaj-448a21316/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href=" https://github.com/ArnavBhardwaj123"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:arnavbhardwaj439@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/arnav-bhardwaj-448a21316/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ArnavBhardwaj123">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -74,7 +83,7 @@
 ### ⚡ GitHub Stats
 
 <p align="center">
-   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark Badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArnavBhardwaj123&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavBhardwaj123&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
