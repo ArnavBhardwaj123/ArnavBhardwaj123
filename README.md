@@ -59,7 +59,6 @@
 </p>
 
 - 🦈 **Pull Shark** — Opened pull requests that have been merged
-- 🧊 **Arctic Code Vault Contributor** — Your code is now preserved in the GitHub Arctic Vault!
 - 🌈 **YOLO** — For taking bold actions like force-pushes to main 😂
 
 ---
