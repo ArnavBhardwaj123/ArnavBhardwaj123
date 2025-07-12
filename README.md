@@ -74,7 +74,7 @@
 ### ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArnavBhardwaj123&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
+   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark Badge" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavBhardwaj123&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
