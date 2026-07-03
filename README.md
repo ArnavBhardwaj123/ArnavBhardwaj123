@@ -1,69 +1,161 @@
-<h1 align="center">Hi 👋, I'm Arnav Bhardwaj</h1>
-<h3 align="center">💻 Web Developer | 🐍 Pythonista | 🔙 Django Backend | 🌐 Frontend Crafter | ☕ Java DSA Explorer</h3>
-
----
-
-### 🚀 About Me
-- 🔭 I’m currently working on **modern full-stack projects** using **Django** + **HTML/CSS/JS/Bootstrap**
-- 🛠️ Passionate about building clean and scalable web apps
-- 🧠 I’m diving deeper into **Data Structures & Algorithms** in **Java** 
-- 🎯 Goal: To become a **top-tier full-stack developer** and contribute to impactful open-source projects
-- 💬 Ask me about anything related to **Python, Django, Web Dev, or DSA**
-- 👨‍💻 Fun Fact: I can debug in dreams 😴
-
----
-
-### 📌 Highlight: Internship @ Bansal Kraft
-- 🏢 **Company:** Bansal Kraft  
-- 🗓️ **Duration:** May 2025 – June 2025  
-- 🌐 **Project:** Developed their official website – [bansalkrafts.com](https://bansalkrafts.com)    
-- 🧩 **Role:** Full-Stack Developer (Major in Backend Django + Frontend Styling)  
-- Many more coming up....
-
----
-
-### 🌟 Projects
-
-#### 📈 StockOverflow
-- A simulated stock trading platform with realistic trade execution
-- 💡 Built with **Django**, **Bootstrap**, **JS**, **SQLite**, and real-time **APIs**
-- 👥 Team of 4 Collaborators
-- 🚀 Goal: Make investing education free and fun!
-- Many more coming up....
-
----
-
-### 🛠️ Tech Stack & Tools
+<h1 align="center">Hey there 👋, I'm Arnav Bhardwaj</h1>
+<h3 align="center">🚀 Software Developer | Full Stack Engineer | Cloud Enthusiast | AI Builder | Python DSA</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Applications;Full+Stack+Developer+(Django+%2B+React);Cloud+%26+DevOps+Explorer;AI+%2F+ML+Enthusiast;Solving+DSA+in+Python+Daily" />
 </p>
 
 ---
 
-### 🏆 GitHub Achievements
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark Badge"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO Badge"/>
-</p>
-
-- 🦈 **Pull Shark** — Opened pull requests that have been merged
-- 🌈 **YOLO** — For taking bold actions like force-pushes to main 😂
+- 🎓 B.Tech CSE (AI) @ **KIET Group of Institutions**
+- 💻 Passionate about building **production-ready full-stack applications**
+- ⚙️ Working with **Django, React, PostgreSQL, FastAPI, Node.js**
+- ☁️ Exploring **AWS, GCP, NGINX, Gunicorn, Linux Deployment**
+- 🤖 Building AI-powered systems using **RAG, FAISS, Gemini API, Vertex AI**
+- 🧠 Solving **Data Structures & Algorithms in Python**
+- 🎯 Goal: Become a world-class **Software Engineer**
 
 ---
 
-### 📬 Connect with Me
+## 💼 Professional Experience
+
+### 🏢 Youth Helping Trust (NGO) — Project Lead & Full Stack Developer
+📅 Feb 2026 – Jun 2026
+
+- Built a production-grade SaaS CRM
+- Developed secure donor workflows and analytics dashboards
+- Managed deployment with NGINX, Gunicorn, PostgreSQL, SSL
+
+🔗 **Live:** https://crm.youthhelpingtrust.org/login
+
+---
+
+### 🏢 KIET Group of Institutions — Frontend Developer Intern
+📅 Sep 2025 – Dec 2025
+
+- Built official IEEE Conference website
+- Designed event workflows, speaker modules, registration systems
+
+🔗 **Live:** https://www.old.kiet.edu/icici2026/index.html
+
+---
+
+### 🏢 Bansal Krafts Pvt. Ltd. — Web Developer Intern
+📅 May 2025 – Jul 2025
+
+- Built and deployed company website
+- Managed GCP VM, NGINX, SSL, SEO optimization
+
+🔗 **Live:** https://bansalkrafts.com/
+
+---
+
+## 🚀 Featured Projects
+
+### 🌊 OceanLens
+AI-powered oceanographic data platform
+
+⚡ Tech Stack:
+`FastAPI` `FAISS` `RAG` `React` `Pandas`
+
+- Query marine datasets
+- AI-driven contextual insights
+- Visualization pipelines
+
+🔗 Repo: https://github.com/GIT-KrishSandhu/OceanLens
+
+---
+
+### 📈 StockOverflow
+Financial intelligence platform with AI-powered stock assistant
+
+⚡ Tech Stack:
+`Django` `Vertex AI` `OAuth` `SQLite`
+
+- Stock prediction
+- Portfolio analysis
+- Market insights
+- StockEye chatbot
+
+🔗 Repo: https://github.com/ayushpandeyap975/Stock_Overflow
+
+---
+
+### 🏥 NGO CRM System
+Production-grade secure CRM system
+
+⚡ Tech Stack:
+`Django` `React` `PostgreSQL` `JWT` `NGINX`
+
+- Role-based access
+- Analytics dashboards
+- Donor lifecycle workflows
+
+🔗 Repo: https://github.com/ArnavBhardwaj123/YouthHelpingTrust
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
+
+### Frontend
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Vite](https://img.shields.io/badge/Vite-purple?style=for-the-badge&logo=vite)
+
+### Backend
+![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)
+![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+![SQLite](https://img.shields.io/badge/SQLite-lightblue?style=for-the-badge&logo=sqlite)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+![GCP](https://img.shields.io/badge/GCP-white?style=for-the-badge&logo=googlecloud)
+![NGINX](https://img.shields.io/badge/NGINX-green?style=for-the-badge&logo=nginx)
+
+---
+
+## 🏆 Certifications & Achievements
+
+🏅 AWS Certified AI Practitioner  
+🏅 AWS Certified Cloud Practitioner  
+🏅 AWS Certified Data Engineer – Associate  
+🏆 Best Full Stack Developer Award (KIET CSE-AI)  
+🥈 2nd Runner-Up — Manifest Campus Clash 2025
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArnavBhardwaj123&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavBhardwaj123&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 🔥 LeetCode Stats
+
+- Solved **114+ Problems**
+- Focused on **Recursion, Graphs, Trees, DP**
+- Daily problem solving in Python
+
+🔗 LeetCode: https://leetcode.com/u/Arnav_Bhardwaj_07/
+
+---
+
+## 📬 Connect With Me
 
 <p align="center">
   <a href="mailto:arnavbhardwaj439@gmail.com">
@@ -73,28 +165,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/ArnavBhardwaj123">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### ⚡ GitHub Stats
+> 💡 *"First, solve the problem. Then, write the code."*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArnavBhardwaj123&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavBhardwaj123&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
-
-### 🧠 Quote I Live By
-
-> *"First, solve the problem. Then, write the code."* – John Johnson
-
----
-
-### 🎉 Thank You for Visiting My Profile!
-
-> ⭐ Feel free to **star** some of my repositories if they helped you!  
-> 🤝 Let’s **connect**, **collaborate**, and **grow** together!
+⭐ If you like my work, feel free to star my repositories!
